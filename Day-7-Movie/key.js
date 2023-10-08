@@ -1,1 +1,1 @@
-key="http://www.omdbapi.com/?i=tt3896198&appikey=b15bc56"
+key="b15bc56"

@@ -52,3 +52,6 @@ let getMovie = () => {
         })
     }
 }
+
+searchBtn.addEventListener("click", getMovie)
+window.addEventListener("click",getMovie)
